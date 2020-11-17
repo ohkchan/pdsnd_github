@@ -1,9 +1,6 @@
-### Date created
-
-Read me file created and project files copied to repository November 16, 2020
+### November 16, 2020
 
 ### Bikeshare project
-
 
 ### Description
 Describe what your project is about and what it does
